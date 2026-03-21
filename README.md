@@ -129,7 +129,6 @@ hotel-booking-snowflake-project/
 ## 👩‍💻 Author
 
 Dharini Arumuga Vijeyakumar
-B.Tech Computer Science and Business Systems
 
 ---
 
