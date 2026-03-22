@@ -68,14 +68,13 @@ Distribution of bookings based on status:
 * Cancelled
 * No-Show
 
-![Booking Status](Screenshots/Total_Booking_Status_Barchart.png)
+![Booking Status](Screenshots/Total_Bookings_Status_Barchart.png)
 
 ---
 
 ### 🏨 9. Bookings by Room Type
 
 Distribution of bookings across room types.
-
 ![Room Type](Screenshots/Total_bookings_roomType_Barchart.png)
 
 ---
