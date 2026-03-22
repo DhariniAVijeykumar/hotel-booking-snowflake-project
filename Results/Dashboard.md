@@ -8,7 +8,7 @@ This section presents key performance indicators (KPIs) and visual insights deri
 
 Total number of bookings recorded in the dataset.
 
-![Total Bookings](Results/Screenshots/Total_Bookings_KPI.png)
+![Total Bookings](Screenshots/Total_Bookings_KPI.png)
 
 ---
 
@@ -16,7 +16,7 @@ Total number of bookings recorded in the dataset.
 
 Total number of guests across all bookings.
 
-![Total Guests](Results/Screenshots/Total_Guests_KPI.png)
+![Total Guests](Screenshots/Total_Guests_KPI.png)
 
 ---
 
@@ -24,7 +24,7 @@ Total number of guests across all bookings.
 
 Average revenue generated per booking.
 
-![Average Booking Value](Results/Screenshots/Avg_BookingValue_KPI.png)
+![Average Booking Value](Screenshots/Avg_BookingValue_KPI.png)
 
 ---
 
@@ -32,7 +32,7 @@ Average revenue generated per booking.
 
 Total revenue generated from all bookings.
 
-![Total Revenue](Results/Screenshots/Total_Revenue_KPI.png)
+![Total Revenue](Screenshots/Total_Revenue_KPI.png)
 
 ---
 
@@ -40,7 +40,7 @@ Total revenue generated from all bookings.
 
 Shows the highest revenue-generating cities.
 
-![Top Cities](Results/Screenshots/top5_cities_Revenue_Barchart.png)
+![Top Cities](Screenshots/top5_cities_Revenue_Barchart.png)
 
 ---
 
@@ -48,7 +48,7 @@ Shows the highest revenue-generating cities.
 
 Trend of bookings over time (monthly aggregation).
 
-![Monthly Bookings](Results/Screenshots/monthly_bookings.png)
+![Monthly Bookings](Screenshots/monthly_bookings.png)
 
 ---
 
@@ -56,7 +56,7 @@ Trend of bookings over time (monthly aggregation).
 
 Trend of revenue over time (monthly aggregation).
 
-![Monthly Revenue](Results/Screenshots/Monthly_Revenue_LineChart.png)
+![Monthly Revenue](Screenshots/Monthly_Revenue_LineChart.png)
 
 ---
 
@@ -68,7 +68,7 @@ Distribution of bookings based on status:
 * Cancelled
 * No-Show
 
-![Booking Status](Results/Screenshots/Total_Booking_Status_Barchart.png)
+![Booking Status](Screenshots/Total_Booking_Status_Barchart.png)
 
 ---
 
@@ -76,7 +76,7 @@ Distribution of bookings based on status:
 
 Distribution of bookings across room types.
 
-![Room Type](Results/Screenshots/Total_bookings_roomType_Barchart.png)
+![Room Type](Screenshots/Total_bookings_roomType_Barchart.png)
 
 ---
 
@@ -88,3 +88,10 @@ Distribution of bookings across room types.
 * Booking patterns highlight customer behavior
 
 ---
+
+
+
+
+
+
+
