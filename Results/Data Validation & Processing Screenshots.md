@@ -6,7 +6,7 @@
 
 This shows a preview of raw data after ingestion.
 
-![Bronze Data](screenshots/bronze_data.png)
+![Bronze Data](Screenshots/bronze_data.png)
 
 ---
 
@@ -14,7 +14,7 @@ This shows a preview of raw data after ingestion.
 
 This query identifies inconsistent booking status values such as misspellings.
 
-![Booking Status](screenshots/Validate_BookingStatus_Attribute.png)
+![Booking Status](Screenshots/Validate_BookingStatus_Attribute.png)
 
 ---
 
@@ -22,7 +22,7 @@ This query identifies inconsistent booking status values such as misspellings.
 
 This query finds records where check-out date is earlier than check-in date.
 
-![Invalid Dates](screenshots/Validate_BookingPeriod.png)
+![Invalid Dates](Screenshots/Validate_BookingPeriod.png)
 
 ---
 
@@ -30,7 +30,7 @@ This query finds records where check-out date is earlier than check-in date.
 
 This query identifies records with negative revenue values.
 
-![Negative Amount](screenshots/Validate_TotalAmt_Attribute.png)
+![Negative Amount](Screenshots/Validate_TotalAmt_Attribute.png)
 
 ---
 
@@ -38,7 +38,7 @@ This query identifies records with negative revenue values.
 
 This query detects invalid or missing email addresses.
 
-![Invalid Email](screenshots/Validate_Mail.png)
+![Invalid Email](Screenshots/Validate_Mail.png)
 
 ---
 
@@ -64,7 +64,7 @@ This table represents the **cleaned and transformed data** after applying valida
 
 This layer ensures data is structured and ready for analysis.
 
-![Silver Layer Data](screenshots/silver_data.png)
+![Silver Layer Data](Screenshots/silver_data.png)
 
 ---
 
@@ -83,7 +83,7 @@ This table shows daily aggregation of:
 
 Useful for identifying trends over time.
 
-![Daily Booking](screenshots/daily_booking.png)
+![Daily Booking](Screenshots/daily_booking.png)
 
 ---
 
@@ -96,7 +96,7 @@ Useful for:
 * Identifying top-performing cities
 * Business expansion decisions
 
-![City Revenue](screenshots/city_revenue.png)
+![City Revenue](Screenshots/city_revenue.png)
 
 ---
 
@@ -107,7 +107,7 @@ This is the fully cleaned and structured dataset used for analysis.
 * Contains validated data
 * Ready for dashboard and KPI calculations
 
-![Gold Clean Data](screenshots/gold_clean_data.png)
+![Gold Clean Data](Screenshots/gold_clean_data.png)
 
 ---
 
