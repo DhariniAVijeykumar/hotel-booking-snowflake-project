@@ -1,0 +1,54 @@
+# 📸 Snowflake Data Validation & Processing Screenshots
+
+---
+
+## 📊 1. Sample Data Validation (Bronze Layer)
+
+This shows a preview of raw data after ingestion.
+
+![Bronze Data](screenshots/bronze_data.png)
+
+---
+
+## 🔍 2. Checking Invalid Booking Status
+
+This query identifies inconsistent booking status values such as misspellings.
+
+![Booking Status](screenshots/Validate_BookingStatus_Attribute.png)
+
+---
+
+## 📅 3. Checking Invalid Booking Dates
+
+This query finds records where check-out date is earlier than check-in date.
+
+![Invalid Dates](screenshots/Validate_BookingPeriod.png)
+
+---
+
+## 💰 4. Checking Negative Total Amount
+
+This query identifies records with negative revenue values.
+
+![Negative Amount](screenshots/Validate_TotalAmt_Attribute.png)
+
+---
+
+## 📧 5. Checking Invalid Email IDs
+
+This query detects invalid or missing email addresses.
+
+![Invalid Email](screenshots/Validate_Mail.png)
+
+---
+
+## ✅ Summary
+
+The above validations ensure:
+
+* Clean and consistent data
+* Accurate date relationships
+* Valid customer information
+* Reliable financial metrics
+
+These steps are essential before moving data to the Silver layer.
