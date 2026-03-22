@@ -68,3 +68,55 @@ This layer ensures data is structured and ready for analysis.
 
 ---
 
+## 🥇 Gold Layer – Aggregated & Business Data
+
+This layer contains **final, analytics-ready data** used for reporting and decision-making.
+
+---
+
+### 📊 1. Daily Bookings & Revenue
+
+This table shows daily aggregation of:
+
+* Total bookings
+* Total revenue
+
+Useful for identifying trends over time.
+
+![Daily Booking](screenshots/daily_booking.png)
+
+---
+
+### 🌍 2. Revenue by Hotel City
+
+This table shows total revenue generated in each city.
+
+Useful for:
+
+* Identifying top-performing cities
+* Business expansion decisions
+
+![City Revenue](screenshots/city_revenue.png)
+
+---
+
+### 📋 3. Final Clean Dataset
+
+This is the fully cleaned and structured dataset used for analysis.
+
+* Contains validated data
+* Ready for dashboard and KPI calculations
+
+![Gold Clean Data](screenshots/gold_clean_data.png)
+
+---
+
+## ✅ Summary of Gold Layer
+
+* Provides business-level insights
+* Aggregated and optimized for reporting
+* Used for dashboards and analytics
+
+---
+
+
