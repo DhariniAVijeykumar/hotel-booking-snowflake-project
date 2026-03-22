@@ -76,8 +76,7 @@ Distribution of bookings based on status:
 
 Distribution of bookings across room types.
 
-![Room Type](Screenshots/Total_bookings_roomType_Barchart.png)
-
+![Room Type](Screenshots/room_type.png)
 ---
 
 ## ✅ Summary of Insights
