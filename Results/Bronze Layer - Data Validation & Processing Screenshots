@@ -52,3 +52,19 @@ The above validations ensure:
 * Reliable financial metrics
 
 These steps are essential before moving data to the Silver layer.
+
+## 🥈 Silver Layer – Cleaned Data
+
+This table represents the **cleaned and transformed data** after applying validation rules such as:
+
+* Date corrections
+* Email validation
+* Removal of invalid records
+* Standardization of text fields
+
+This layer ensures data is structured and ready for analysis.
+
+![Silver Layer Data](screenshots/silver_data.png)
+
+---
+
